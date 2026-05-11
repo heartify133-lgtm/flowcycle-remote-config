@@ -1,0 +1,16 @@
+{
+  "adsEnabled": true,
+  "interstitialFrequency": 1,
+  "dailyWisdomEnabled": true,
+  "adIds": {
+    "APP_ID": "ca-app-pub-2435300010765671~6823625926",
+    "INTERSTITIAL": "ca-app-pub-2435300010765671/2138275450",
+    "APP_OPEN": "ca-app-pub-2435300010765671/2404654715",
+    "BANNERS": [
+      "ca-app-pub-2435300010765671/5628063949",
+      "ca-app-pub-2435300010765671/1568949720",
+      "ca-app-pub-2435300010765671/5091741851",
+      "ca-app-pub-2435300010765671/4845849753"
+    ]
+  }
+}
